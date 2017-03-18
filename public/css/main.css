@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    border: solid #eeeeee 1px;
+    padding: 10pt;
+    color: #222222
+}
+
+th {
+    background-color: #eeeeee;
+}
